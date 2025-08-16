@@ -9,8 +9,8 @@
 
 ## 🚀 Projeto(s) em andamento
 - 🏋️‍♂️ [Análise de Powerlifting](https://github.com/joas-ds/analise-powerlifting-db) → exploração e visualização de dados de competições de powerlifting
-- 📈 Estudos de Estatística & Machine Learning → repositórios com exercícios e experimentos
-- 🔎 Dashboards em Python/Seaborn → análises visuais interativas (em andamento)
+- 🌱 Estudando Ciência de Dados, Engenharia de Dados → utilizando repositórios para exercícios e experimentos
+- 🔎 Dashboards em Python/Seaborn → análises visuais interativas
 
 ---
 
