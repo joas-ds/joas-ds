@@ -1,6 +1,6 @@
 # Olá, eu sou o João!
 
-- 💻 Analista em formação e futuro Cientista de Dados
+- 💻 Graduando em Sistemas de Informação e futuro Cientista de Dados
 - 🔭 Atualmente atuando como estagiário de análise de dados no Itaú - Cash Management PJ
 - 📊 Foco em Python, SQL, Estatística e Visualização de Dados
 - 🚀 Apaixonado por explorar dados, criar insights e desenvolver soluções baseadas em evidências  
